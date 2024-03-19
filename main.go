@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/bytecodealliance/component-docs/component-model/examples/tutorial/wasip2-tinygo/docs/calculator/add"
+	"github.com/dgryski/wasip2-demo/docs/calculator/add"
 )
 
 func main() {

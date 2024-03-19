@@ -1,3 +1,3 @@
-module github.com/bytecodealliance/component-docs/component-model/examples/tutorial/wasip2-tinygo
+module github.com/dgryski/wasip2-demo
 
 go 1.22.0
