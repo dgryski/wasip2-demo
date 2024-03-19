@@ -1,0 +1,6 @@
+package demo:tinygocalc@0.0.1;
+
+world app {
+  include wasi:cli/command@0.2.0;
+  import docs:calculator/add@0.1.0;
+}
